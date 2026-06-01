@@ -2,7 +2,7 @@
  * 建立類別(class)、方法(main)、輸出(System.out.println)
  * 單行及多行註解
  */
-package HomeWork;//檔案位置
+package HomeWork.Week01;//檔案位置
 
 public class SelfIntro {// 類別宣告
 	public static void main(String[] args) {// 主程式入口，程式起點

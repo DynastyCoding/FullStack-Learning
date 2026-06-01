@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.Week01;
 
 public class GiftSwap {
 	public static void main(String[] args) {
