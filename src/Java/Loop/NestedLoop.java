@@ -1,4 +1,4 @@
-package Week02.Loop;
+package Java.Loop;
 
 public class NestedLoop {
 
