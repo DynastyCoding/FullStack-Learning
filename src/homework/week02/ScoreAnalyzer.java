@@ -1,6 +1,7 @@
 package homework.week02;
 
 import java.util.Scanner;
+
 //氣泡升序再反轉版本(待補無反轉反著輸出版本、氣泡降序版本
 public class ScoreAnalyzer {
     public static void main(String[] args) {
