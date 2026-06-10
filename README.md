@@ -1,8 +1,8 @@
 # Hi, I'm Duke
 
-> Background : NCKU History | NCKU Financial
-> Experience : Gas station manager 2 years
-> 全端軟體工程師培訓中
+- Background : NCKU History | NCKU Financial
+- Experience : Gas station manager 2 years
+- 全端軟體工程師培訓中
 
 ## About me
 
