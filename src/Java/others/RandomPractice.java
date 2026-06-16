@@ -1,5 +1,6 @@
 package Java.others;
 
+import java.util.Date;
 import java.util.Scanner;
 
 public class RandomPractice {
@@ -80,5 +81,33 @@ public class RandomPractice {
     public static void main(String[] args) {
 
         passwordGenerator();
+    }
+
+    public static class CourseExercise {
+
+        private String courseName;
+        private int credit;
+
+        public CourseExercise(String courseName, int credit) {
+            this.courseName = courseName;
+            this.credit = credit;
+        }
+
+        public static void main(String[] args) {
+            CourseExercise java = new CourseExercise("Java programming", 3);
+            System.out.println("class: " + java.courseName +
+                        "\ncredit: " + java.credit);
+            }
+
+    }
+
+    public static class Main {
+        public static void main(String[] args) {
+            Date utilDate = new Date();
+            java.sql.Date sqlDate = new java.sql.Date(System.currentTimeMillis());
+            System.out.println(utilDate);
+            System.out.println(sqlDate);
+
+        }
     }
 }
