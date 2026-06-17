@@ -23,7 +23,7 @@ class MyTest extends Mymath {
     }
 }
 
-public class MathExercise {
+public class AbstractClassDemo {
     public static void main(String[] args) {
 
         Mymath obj = new MyTest();

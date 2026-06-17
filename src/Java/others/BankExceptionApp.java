@@ -38,7 +38,7 @@ class MyBank {
 }
 
 
-public class BankException {
+public class BankExceptionApp {
     public static void main(String[] args) {
 
     }
